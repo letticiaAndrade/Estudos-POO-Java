@@ -8,11 +8,11 @@ public class ConversaoDesafio {
         Scanner dados = new Scanner(System.in);
 
         System.out.println("Digite o primeiro salário: ");
-        String a = dados.nextLine();
+        String a = dados.nextLine().replace(",", ".");
         System.out.println("Digite o segundo salário: ");
-        String b = dados.nextLine();
+        String b = dados.nextLine().replace(",", ".");
         System.out.println("Digite o terceiro salário: ");
-        String c = dados.nextLine();
+        String c = dados.nextLine().replace(",", ".");
 
         double salario1 = Double.parseDouble(a);
         double salario2 = Double.parseDouble(b);
@@ -26,6 +26,7 @@ public class ConversaoDesafio {
         double media = soma / 3;
         System.out.println("A média salarial do funcionário com os últimos três salários é: " + media);
         dados.close();
+        
     }
     
 }
