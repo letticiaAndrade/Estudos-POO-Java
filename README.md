@@ -6,7 +6,7 @@ Em fundamentos é estudado:
 - Operadores Atribuição, Lógicos, Relacionais e Aritmétricos
 - Requisições para o usuário (Scanner);
 - Conversão de String para número e número para String;
-- Conversão de Tipos primitivos números;
+- Conversão de Tipos primitivos numéricos;
 - Manipulação com  o tipo String e o uso do equals;
 - Import;
 - Tipos primitivos e seus tamanhos;
