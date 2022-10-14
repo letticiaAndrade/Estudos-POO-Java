@@ -4,7 +4,7 @@ Estudos e acompanhamento de POO em Java
 Em fundamentos é estudado:
 - Notação ponto;
 - Operadores Atribuição, Lógicos, Relacionais e Aritmétricos
-- Console;
+- Requisições para o usuário (Scanner);
 - Conversão de String para número e número para String;
 - Conversão de Tipos primitivos números;
 - Manipulação com  o tipo String e o uso do equals;
