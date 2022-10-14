@@ -12,3 +12,6 @@ Em fundamentos é estudado:
 - Tipos primitivos e seus tamanhos;
 - Operadores Unários e Ternários;
 - Wrappers;
+
+Em controle é estudado:
+- Estrutura de controle if e else;
