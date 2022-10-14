@@ -2,6 +2,7 @@
 Estudos e acompanhamento da linguagem de programação Java
 
 <h3>Em fundamentos é estudado:</h3>
+
 - Notação ponto;
 - Operadores Atribuição, Lógicos, Relacionais e Aritmétricos
 - Requisições para o usuário (Scanner);
