@@ -14,4 +14,13 @@ Em fundamentos é estudado:
 - Wrappers;
 
 Em controle é estudado:
-- Estrutura de controle if e else;
+- Estrutura condicional if e else;
+- Estrutura de repetição for;
+- Estrutura de repetição while;
+- Estrutura de repetição do-while;
+- Uso do break comum e break regulado;
+- Uso do continue comum e continue regulado;
+- Uso do switch;
+
+Em classe é estudado: 
+- 
