@@ -24,5 +24,6 @@ Estudos e acompanhamento da linguagem de programação Java
 - Uso do continue comum e continue regulado;
 - Uso do switch;
 
-Em classe é estudado: 
+<h3>Em classe é estudado:</h3>
+
 - 
