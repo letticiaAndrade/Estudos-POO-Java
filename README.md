@@ -1,5 +1,5 @@
 # Estudos-POO-Java
-Estudos e acompanhamento de POO em Java
+Estudos e acompanhamento da linguagem de programação Java
 
 Em fundamentos é estudado:
 - Notação ponto;
