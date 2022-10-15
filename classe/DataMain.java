@@ -17,11 +17,15 @@ public class DataMain {
     data2.ano = 2000;
     data2.dia = 4;
     data2.mes = 4;
+    
+    String dataFormatada1 = data1.obterDataFormatada();
 
-        System.out.printf("Data : %d / %d / %d",data1.dia,data1.mes, data1.ano);
+        System.out.println(dataFormatada1);
+        System.out.println(data2.obterDataFormatada());
 
-        System.out.printf("\nData : %d / %d / %d",data2.dia,data2.mes, data2.ano);
+        data1.imprimirDataFormatada();
+        data2.imprimirDataFormatada();
+        
 
-   
     }
 }
