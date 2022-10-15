@@ -26,4 +26,7 @@ Estudos e acompanhamento da linguagem de programação Java
 
 <h3>Em classe é estudado:</h3>
 
-- 
+- Classes;
+- Atributos e métodos;
+- Uso do new para instaciar objetos;
+
