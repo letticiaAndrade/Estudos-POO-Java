@@ -30,4 +30,4 @@ Estudos e acompanhamento da linguagem de programação Java
 - Atributos e métodos;
 - Uso do new para instaciar objetos;
 - Construtor e sua limitação por assinatura;
-- 
+- Atributos e métodos static e final static
